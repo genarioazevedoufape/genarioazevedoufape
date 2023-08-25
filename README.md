@@ -59,7 +59,7 @@
   <img min-width="400px" max-width="400px" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=genarioazevedoufape&show_icons=true&theme=graywhite" />
 </a>
 <a href="https://github.com/genarioazevedoufape">
-  <img min-width="420px" max-width="420px" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=genarioazevedoufape&theme=graywhite" />
+  <img min-width="400px" max-width="400px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=genarioazevedoufape&theme=graywhite" />
 </a>
 
 <br>
