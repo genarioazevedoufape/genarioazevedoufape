@@ -1,6 +1,3 @@
-
-<br>
-
 ![](https://komarev.com/ghpvc/?username=genarioazevedoufape&color=006bed) 
 [![Twitter: genarioazevedo](https://img.shields.io/twitter/follow/genarioazevedo?style=social)](https://twitter.com/genarioazevedo)
 -
@@ -74,6 +71,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-genarioazevedo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:genarioazevedo@gmail.com)](mailto:genarioazevedo@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-006bed?style=flat-square&logo=Instagram&&logoColor=white&link=https://www.instagram.com/genarioazvdo/#)](https://www.instagram.com/genarioazvdo/#)
 
-<br> <br> <br> 
+<br> <br>
 
 ---
