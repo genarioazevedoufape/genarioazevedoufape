@@ -10,8 +10,9 @@
 
 - 😊 Sou **PSICÓLOGO** pela  <a href="https://www.upe.br/">UPE</a>, fascinado em ciências e tecnologia, venho construindo espaços e ampliando saberes na **COMPUTAÇÃO**.
 - 🎓 Estudando **CIÊNCIAS DA COMPUTAÇÃO** na <a href="http://ufape.edu.br/">UFAPE</a>.
-- - 💼 Estagiando como **FRONT-END DEVELOPMENT (REACT) - AWS CLOUD CONTEXT** na <a href="https://compass.uol/pt/home/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compass+uol">COMPASSUOL</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Como ser um Full Stack**.
+- 💼 Estagiei como **FRONT-END DEVELOPMENT (REACT)** na <a href="https://compass.uol/pt/home/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compass+uol">COMPASSUOL</a>.
+- ☁️ AWS Certified
+- 🌱&nbsp;Aprendendo mais sobre **Como ser um Full Stack**.
 </div>
 <br><br><br>
 
