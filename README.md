@@ -10,7 +10,9 @@
 
 - 😊 Sou **PSICÓLOGO** pela  <a href="https://www.upe.br/">UPE</a>, fascinado em ciências e tecnologia, venho construindo espaços e ampliando saberes na **COMPUTAÇÃO**.
 - 🎓 Estudando **CIÊNCIAS DA COMPUTAÇÃO** na <a href="http://ufape.edu.br/">UFAPE</a>.
-- 💼 Estagiei como **FRONT-END DEVELOPMENT (REACT)** na <a href="https://compass.uol/pt/home/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compass+uol">COMPASSUOL</a>.
+- 💻 Extensionista bolsista em  **Ciêcias de Dados** na <a href="https://www.upe.br/">UPE</a> financiado pela **Facepe** (2024).
+- 💼 Estagiei como **FRONT-END DEVELOPMENT (REACT)** na <a href="https://compass.uol/pt/home/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compass+uol">COMPASSUOL</a> (2023-2024).
+- 💻 Extensionista bolsista em  **Data Analytics e Machine Learning** na <a href="https://www.upe.br/">UPE</a> financiado pela **Facepe** (2023).
 - ☁️ **AWS Certified Cloud Practitioner** <a href="https://www.credly.com/badges/afc5fb7b-64e6-44f9-986e-39409309a95a/linked_in?t=s89hso">Credly by person</a>.
 - 🌱&nbsp;Aprendendo mais sobre **Como ser um Desenvolvedor**.
 </div>
