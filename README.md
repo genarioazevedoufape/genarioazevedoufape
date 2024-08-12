@@ -19,7 +19,7 @@
 
 <h3>Minhas Skills</h3>
 
-**Aplicações e dados**
+**Desenvolvimento**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TYpeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007396)
@@ -29,21 +29,25 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=rubyonrails)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![C](https://img.shields.io/badge/--333333?style=flat&logo=c)
 ![java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
-**Utilidades**
+**Ciências de Dados**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Colab](https://img.shields.io/badge/-Colab-333333?style=flat&logo=googlecolab)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
 ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
+![Matplotlib](https://img.shields.io/badge/-matplotlib-333333?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+![numpy](https://img.shields.io/badge/-numpy-333333?style=flat&logo=numpy)
 ![Steamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
-**DevOps**
 
+**Utilidades**
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Codacy](https://img.shields.io/badge/-Codacy-333333?style=flat&logo=codacy)
