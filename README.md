@@ -29,10 +29,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=rubyonrails)
-![C](https://img.shields.io/badge/--333333?style=flat&logo=c)
-![java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 **Ciências de Dados**
 
@@ -50,7 +46,7 @@
 
 **Utilidades**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Posman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Codacy](https://img.shields.io/badge/-Codacy-333333?style=flat&logo=codacy)
