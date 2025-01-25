@@ -17,8 +17,7 @@
 - 💻 Extensionista bolsista em  **Data Analytics e Machine Learning** na <a href="https://www.upe.br/">UPE</a>, financiado pela **Facepe** (2023).
 - ☁️ **AWS Certified Cloud Practitioner** <a href="https://www.credly.com/badges/afc5fb7b-64e6-44f9-986e-39409309a95a/linked_in?t=s89hso">Credly by person</a>.
 </div>
-<br><br><br>
-
+<br><br>
 <h3>Minhas Skills</h3>
 
 **Desenvolvimento**
